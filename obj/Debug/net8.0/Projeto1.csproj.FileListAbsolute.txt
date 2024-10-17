@@ -1,0 +1,14 @@
+C:\Users\elove\source\repos\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.exe
+C:\Users\elove\source\repos\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.deps.json
+C:\Users\elove\source\repos\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.runtimeconfig.json
+C:\Users\elove\source\repos\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.dll
+C:\Users\elove\source\repos\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.pdb
+C:\Users\elove\source\repos\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elove\source\repos\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.AssemblyInfoInputs.cache
+C:\Users\elove\source\repos\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.AssemblyInfo.cs
+C:\Users\elove\source\repos\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\elove\source\repos\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.dll
+C:\Users\elove\source\repos\Projeto1\Projeto1\obj\Debug\net8.0\refint\Projeto1.dll
+C:\Users\elove\source\repos\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.pdb
+C:\Users\elove\source\repos\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.genruntimeconfig.cache
+C:\Users\elove\source\repos\Projeto1\Projeto1\obj\Debug\net8.0\ref\Projeto1.dll
