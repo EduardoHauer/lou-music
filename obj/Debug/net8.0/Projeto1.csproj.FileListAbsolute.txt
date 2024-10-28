@@ -26,3 +26,4 @@ C:\Users\elove\Projetos\Projeto1\Projeto1\obj\Debug\net8.0\refint\Projeto1.dll
 C:\Users\elove\Projetos\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.pdb
 C:\Users\elove\Projetos\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.genruntimeconfig.cache
 C:\Users\elove\Projetos\Projeto1\Projeto1\obj\Debug\net8.0\ref\Projeto1.dll
+C:\Users\elove\Projetos\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.sourcelink.json

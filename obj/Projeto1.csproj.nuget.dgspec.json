@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elove\\source\\repos\\Projeto1\\Projeto1\\Projeto1.csproj": {}
+    "c:\\Users\\elove\\Projetos\\Projeto1\\Projeto1\\Projeto1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elove\\source\\repos\\Projeto1\\Projeto1\\Projeto1.csproj": {
+    "c:\\Users\\elove\\Projetos\\Projeto1\\Projeto1\\Projeto1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elove\\source\\repos\\Projeto1\\Projeto1\\Projeto1.csproj",
+        "projectUniqueName": "c:\\Users\\elove\\Projetos\\Projeto1\\Projeto1\\Projeto1.csproj",
         "projectName": "Projeto1",
-        "projectPath": "C:\\Users\\elove\\source\\repos\\Projeto1\\Projeto1\\Projeto1.csproj",
+        "projectPath": "c:\\Users\\elove\\Projetos\\Projeto1\\Projeto1\\Projeto1.csproj",
         "packagesPath": "C:\\Users\\elove\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elove\\source\\repos\\Projeto1\\Projeto1\\obj\\",
+        "outputPath": "c:\\Users\\elove\\Projetos\\Projeto1\\Projeto1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elove\\AppData\\Roaming\\NuGet\\NuGet.Config",
