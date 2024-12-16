@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\elove\\Projetos\\loumusic\\loumusic\\Projeto1.csproj": {}
+    "C:\\Users\\elove\\Projetos\\loumusic\\loumusic\\Projeto1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\elove\\Projetos\\loumusic\\loumusic\\Projeto1.csproj": {
+    "C:\\Users\\elove\\Projetos\\loumusic\\loumusic\\Projeto1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\elove\\Projetos\\loumusic\\loumusic\\Projeto1.csproj",
+        "projectUniqueName": "C:\\Users\\elove\\Projetos\\loumusic\\loumusic\\Projeto1.csproj",
         "projectName": "Projeto1",
-        "projectPath": "c:\\Users\\elove\\Projetos\\loumusic\\loumusic\\Projeto1.csproj",
+        "projectPath": "C:\\Users\\elove\\Projetos\\loumusic\\loumusic\\Projeto1.csproj",
         "packagesPath": "C:\\Users\\elove\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\elove\\Projetos\\loumusic\\loumusic\\obj\\",
+        "outputPath": "C:\\Users\\elove\\Projetos\\loumusic\\loumusic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elove\\AppData\\Roaming\\NuGet\\NuGet.Config",
